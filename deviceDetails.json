@@ -1,0 +1,138 @@
+[
+  {
+    "type": "normal_sw",
+    "name": "Switch1",
+    "ip": "192.168.1.251",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  },
+  {
+    "type": "normal_sw",
+    "name": "Switch2",
+    "ip": "192.168.1.252",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  },
+  {
+    "type": "normal_sw",
+    "name": "Switch3",
+    "ip": "192.168.1.253",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  },
+  {
+    "type": "normal_sw",
+    "name": "Switch4",
+    "ip": "192.168.1.254",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  },
+  {
+    "type": "normal_sw",
+    "name": "Switch5",
+    "ip": "172.16.1.253",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  },
+  {
+    "type": "normal_sw",
+    "name": "Switch6",
+    "ip": "172.16.1.254",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  },
+  {
+    "type": "multilayer_sw",
+    "name": "Core_SW1",
+    "ip": "172.16.1.251",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  },
+  {
+    "type": "multilayer_sw",
+    "name": "Core_SW2",
+    "ip": "172.16.1.252",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  },
+  {
+    "type": "normal_sw",
+    "name": "SW_WAN1",
+    "ip": "10.10.20.5",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  },
+  {
+    "type": "normal_sw",
+    "name": "SW_WAN2",
+    "ip": "20.20.20.5",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  },
+  {
+    "type": "router",
+    "name": "R1",
+    "ip": "192.168.1.1",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  },
+  {
+    "type": "router",
+    "name": "R2",
+    "ip": "192.168.1.2",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  },
+  {
+    "type": "router",
+    "name": "ISP1",
+    "ip": "10.10.20.3",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  },
+  {
+    "type": "router",
+    "name": "RouterLAN",
+    "ip": "30.30.30.2",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  },
+  {
+    "type": "router",
+    "name": "Router_Cluster",
+    "ip": "50.50.50.2",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  },
+  {
+    "type": "router",
+    "name": "RouterServer",
+    "ip": "60.60.60.2",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  },
+  {
+    "type": "router",
+    "name": "ISP2",
+    "ip": "40.40.40.2",
+    "username": "admin",
+    "password": "cisco",
+    "privileged_password": "class"
+  }
+]
